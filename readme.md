@@ -75,7 +75,7 @@ git commit -m "basic backend application setup"
 
 ```
 git push -u origin main
-```
+
 Database Setup:
 
 1. Visit MongoDB.Com and create an account.
